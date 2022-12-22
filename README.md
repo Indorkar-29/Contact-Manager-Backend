@@ -1,2 +1,0 @@
-# Contact-Manager-Backend
-Server
